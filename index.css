@@ -7,6 +7,25 @@
 
 header{
     display: flex;
-    background-color: #ffffff;
+    background-color:peachpuff;
     height: 80px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.myntra-home{
+    height: 45px;
+    
+}
+
+.logo_container{
+    margin-left: 4%;
+}
+
+.action_bar{
+    margin-right: 4%;
+}
+
+.nav_bar{
+    display: flex;
 }
